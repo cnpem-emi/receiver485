@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name adaptador_db15_usb-rescue)(type Legacy)(uri ${KIPRJMOD}/adaptador_db15_usb-rescue.lib)(options "")(descr ""))
 )
